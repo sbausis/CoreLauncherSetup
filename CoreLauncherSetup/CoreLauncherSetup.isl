@@ -4310,7 +4310,6 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<row><td>IS_SQLSERVER_SERVER</td><td/><td/></row>
 		<row><td>IS_SQLSERVER_USERNAME</td><td>sa</td><td/></row>
 		<row><td>InstallChoice</td><td>AR</td><td/></row>
-		<row><td>LAUNCHPROGRAM</td><td>1</td><td/></row>
 		<row><td>LAUNCHPROGRAMCOMPCODE</td><td>{A7BC36EB-90A5-480E-990B-B9024A0048D4}</td><td/></row>
 		<row><td>LAUNCHPROGRAMFILEKEY</td><td>corelauncher.exe</td><td/></row>
 		<row><td>LAUNCHREADME</td><td>1</td><td/></row>
@@ -4355,7 +4354,7 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<row><td>RestartManagerOption</td><td>CloseRestart</td><td/></row>
 		<row><td>SERIALNUMBER</td><td/><td/></row>
 		<row><td>SERIALNUMVALSUCCESSRETVAL</td><td>1</td><td/></row>
-		<row><td>SHOWLAUNCHPROGRAM</td><td>-1</td><td/></row>
+		<row><td>SHOWLAUNCHPROGRAM</td><td>0</td><td/></row>
 		<row><td>SecureCustomProperties</td><td>ISFOUNDNEWERPRODUCTVERSION;USERNAME;COMPANYNAME;ISX_SERIALNUM;SUPPORTDIR</td><td/></row>
 		<row><td>SelectedSetupType</td><td>##IDS__DisplayName_Typical##</td><td/></row>
 		<row><td>SetupType</td><td>Typical</td><td/></row>
