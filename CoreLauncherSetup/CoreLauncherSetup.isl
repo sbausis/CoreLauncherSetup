@@ -1898,7 +1898,7 @@
 	<table name="ISAssistantTag">
 		<col key="yes" def="s72">Tag</col>
 		<col def="S255">Data</col>
-		<row><td>RegistryPageEnabled</td><td>Yes</td></row>
+		<row><td>RegistryPageEnabled</td><td>No</td></row>
 	</table>
 
 	<table name="ISBillBoard">
@@ -3966,7 +3966,7 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<row><td>ISTheme</td><td>InstallShield Blue.theme</td></row>
 		<row><td>ISUSLock</td><td>{E9EE3379-DA23-4543-B229-E51B35C468BF}</td></row>
 		<row><td>ISUSSignature</td><td>{6F592283-DFF1-4183-9615-B1DA413ED55C}</td></row>
-		<row><td>ISVisitedViews</td><td>viewAssistant,viewUI,viewRelease</td></row>
+		<row><td>ISVisitedViews</td><td>viewAssistant,viewUI,viewRelease,viewRegistry</td></row>
 		<row><td>Limited</td><td>1</td></row>
 		<row><td>LockPermissionMode</td><td>1</td></row>
 		<row><td>MsiExecCmdLineOptions</td><td/></row>
@@ -4410,7 +4410,6 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<col def="S0">Value</col>
 		<col def="s72">Component_</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>_6A63BE70D5585CD91707B1650545332D</td><td>2</td><td>SOFTWARE\Microsoft\Windows\CurrentVersion\Run</td><td>CoreLauncher</td><td>"C:\Program Files (x86)\CoreLauncher\CoreLauncher.exe"</td><td>ISX_DEFAULTCOMPONENT1</td><td/></row>
 	</table>
 
 	<table name="RemoveFile">
