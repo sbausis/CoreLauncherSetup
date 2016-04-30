@@ -340,7 +340,7 @@
 		<col def="S0">ISDotNetInstallerArgsCommit</col>
 		<col def="S0">ISDotNetInstallerArgsUninstall</col>
 		<col def="S0">ISDotNetInstallerArgsRollback</col>
-		<row><td>CoreLauncher.exe</td><td>{73B961EE-D771-4854-AA60-4C2C373343B6}</td><td>INSTALLDIR</td><td>2</td><td/><td>corelauncher.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>CoreLauncher.exe</td><td>{869B6100-4A14-4933-94D3-3226DC7FBD74}</td><td>INSTALLDIR</td><td>2</td><td/><td>corelauncher.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{D4FF1C8B-16EE-45BD-90DA-A2188C596FDD}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 	</table>
 
@@ -1882,7 +1882,7 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I4">ISAttributes</col>
 		<col def="S72">ISComponentSubFolder_</col>
-		<row><td>corelauncher.exe</td><td>CoreLauncher.exe</td><td>CORELA~1.EXE|CoreLauncher.exe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Simon\Documents\Visual Studio 2015\Projects\CoreLauncherSetup\files\CoreLauncher.exe</td><td>1</td><td/></row>
+		<row><td>corelauncher.exe</td><td>CoreLauncher.exe</td><td>CORELA~1.EXE|CoreLauncher.exe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Projects\CoreLauncherSetup\files\CoreLauncher.exe</td><td>1</td><td/></row>
 	</table>
 
 	<table name="FileSFPCatalog">
@@ -2025,7 +2025,7 @@
 		<col def="S0">FTPLocation</col>
 		<col def="S0">HTTPLocation</col>
 		<col def="S0">Miscellaneous</col>
-		<row><td>CoreLauncher.exe</td><td/><td/><td>_C23BAD91_E7CD_4262_AA4B_024DC49FC7A5_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>CoreLauncher.exe</td><td/><td/><td>_EFDA8117_2EC0_428B_9CFE_02E476DE4202_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT1</td><td/><td/><td>_0BBA3252_87DB_479E_B631_191697DF6281_FILTER</td><td/><td/><td/><td/></row>
 	</table>
 
@@ -3429,6 +3429,7 @@
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME1</td><td>1033</td><td>LAUNCH~1.EXE|Launch CoreLauncher.exe</td><td>0</td><td/><td>-1037821587</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME2</td><td>1033</td><td>LAUNCH~1.EXE|Launch CoreLauncher.exe</td><td>0</td><td/><td>-1037774483</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME3</td><td>1033</td><td>LAUNCH~1.EXE|Launch CoreLauncher.exe</td><td>0</td><td/><td>-1037807091</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME4</td><td>1033</td><td>LAUNCH~1.EXE|Launch CoreLauncher.exe</td><td>0</td><td/><td>178576321</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO</td><td>1033</td><td>From the list of servers below, select the database server you would like to target.</td><td>0</td><td/><td>-1037825747</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_DB</td><td>1033</td><td>From the list of catalog names below, select the database catalog you would like to target.</td><td>0</td><td/><td>-1037825747</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_TEMPLATE</td><td>1033</td><td>[IS_SQLBROWSE_INTRO]</td><td>0</td><td/><td>-1037825747</td></row>
@@ -3833,6 +3834,7 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I2">ISIconIndex</col>
 		<row><td>ARPPRODUCTICON.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\setupicon.ico</td><td>0</td></row>
+		<row><td>CoreLauncher.exe_D79F2D5FF0D84C859261F04A407664C5.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
 		<row><td>CoreLauncher.exe_DBE3DE87D64045539E5368A0300B836D.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
 	</table>
 
@@ -4504,7 +4506,7 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<col def="S255">ISComments</col>
 		<col def="S255">ISShortcutName</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>CoreLauncher.exe</td><td>corela_1_corelauncher</td><td>##IDS_SHORTCUT_DISPLAY_NAME3##</td><td>CoreLauncher.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>CoreLauncher.exe_DBE3DE87D64045539E5368A0300B836D.exe</td><td>0</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>CoreLauncher.exe</td><td>corela_1_corelauncher</td><td>##IDS_SHORTCUT_DISPLAY_NAME4##</td><td>CoreLauncher.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>CoreLauncher.exe_D79F2D5FF0D84C859261F04A407664C5.exe</td><td>0</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="Signature">
